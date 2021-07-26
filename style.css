@@ -14,8 +14,8 @@ html {
 }
 
 #marqueestyle {
-    background: rgb(131,58,180);
-background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(196,28,129,1) 50%, rgba(255,0,83,1) 100%);
+    background: rgb(131, 58, 180);
+    background: radial-gradient(circle, rgba(131, 58, 180, 1) 0%, rgba(196, 28, 129, 1) 50%, rgba(255, 0, 83, 1) 100%);
     color: white;
 }
 
@@ -31,4 +31,8 @@ background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(196,28,129,1) 50
 
 #Details h3 {
     display: inline;
+}
+
+#NBIS_CUR {
+    font-family: 'Lobster', cursive;
 }
